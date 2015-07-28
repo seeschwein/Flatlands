@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="12px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 12 12" width="12px" x="0px" y="0px" zoomAndPan="magnify">
+<defs>
+<linearGradient gradientUnits="userSpaceOnUse" x1="5.9995" x2="5.9995" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="-205.8745" y2="-163.5344">
+<stop offset="0" stop-color="#3f3f3f"/>
+<stop offset="0.2858" stop-color="#303030"/>
+<stop offset="0.6599" stop-color="#222222"/>
+<stop offset="1" stop-color="#1e1e1e"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="5.9995" x2="5.9995" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="5.0029" y2="6.6869">
+<stop offset="0" stop-color="#282828"/>
+<stop offset="0.2332" stop-color="#1c1c1c"/>
+<stop offset="0.5744" stop-color="#121212"/>
+<stop offset="1" stop-color="#0f0f0f"/>
+</linearGradient>
+<radialGradient cx="168" cy="144.49992" fx="168" fy="144.49992" gradientTransform="matrix(30,3.3790372e-6,-2.937885e-6,26.083335,-4871.9996,-3624.5405)" gradientUnits="userSpaceOnUse" id="linearGradient3777" r="6">
+<stop offset="0" stop-color="#e1e1e1" stop-opacity="1"/>
+<stop offset="1" stop-color="#e1e1e1" stop-opacity="0.90196079"/>
+</radialGradient>
+<linearGradient id="linearGradient3777">
+<stop offset="0" stop-color="#e1e1e1" stop-opacity="1"/>
+<stop offset="1" stop-color="#e1e1e1" stop-opacity="0.90196079"/>
+</linearGradient>
+<radialGradient cx="168" cy="144.49992" fx="168" fy="144.49992" gradientTransform="matrix(30,3.3790372e-6,-2.937885e-6,26.083335,-5207.9996,-3913.5405)" gradientUnits="userSpaceOnUse" id="radialGradient4064" r="6">
+<stop offset="0" stop-color="#e1e1e1" stop-opacity="1"/>
+<stop offset="1" stop-color="#e1e1e1" stop-opacity="0.90196079"/>
+</radialGradient>
+</defs>
+<path color="#000000" d="M 12.0 -2.0E-7 C 11.9501 6.62204 6.62204 11.95014 0.0 12.0 L 0.0 -2.0E-7 L 12.0 -2.0E-7 z " display="inline" fill="url(#radialGradient4064)" fill-opacity="1" fill-rule="nonzero" stroke="none" visibility="visible"/>
+</svg>

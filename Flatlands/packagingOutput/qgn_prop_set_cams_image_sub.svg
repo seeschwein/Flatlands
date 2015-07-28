@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="57px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 67 57" width="67px" x="0px" y="0px" zoomAndPan="magnify">
+<rect fill="#0500a7" fill-opacity="0.58823532" fill-rule="nonzero" height="48" ry="8.2174387" stroke="none" width="48" x="9.5" y="5.5"/>
+<defs>
+<linearGradient gradientTransform="translate(0,6)" gradientUnits="userSpaceOnUse" x1="37.498" x2="37.498" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="53.4639" y2="11.0005">
+<stop offset="0" stop-color="#d0cbc5"/>
+<stop offset="0.5031" stop-color="#fafcef"/>
+<stop offset="0.9693" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff"/>
+</linearGradient>
+</defs>
+<path d="M 44.57692 28.871693 L 40.31723 24.46554 C 39.99723 24.133232 39.442158 24.09754 39.081535 24.39539 L 32.807076 29.588001 L 29.24277 25.898155 C 28.920307 25.563385 28.389847 25.563385 28.067385 25.898155 L 22.423077 31.739386 L 22.423077 36.5 L 44.576927 36.5 L 44.576927 28.871695 z M 48.269238 15.576923 L 18.730778 15.576923 C 18.050156 15.576923 17.5 16.127077 17.5 16.807692 L 17.5 40.192303 C 17.5 40.87292 18.050156 41.423073 18.73077 41.423073 L 48.269226 41.423073 C 48.949844 41.423073 49.5 40.872913 49.5 40.1923 L 49.5 16.807688 C 49.5 16.127073 48.949844 15.576918 48.26923 15.576918 z M 47.03846 38.961536 L 19.961538 38.961536 L 19.961538 18.03846 L 47.03846 18.03846 L 47.03846 38.961536 z " fill="#ffffff"/>
+</svg>

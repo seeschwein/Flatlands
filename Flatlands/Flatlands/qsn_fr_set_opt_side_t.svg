@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="12px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 336 12" width="336px" x="0px" y="0px" zoomAndPan="magnify">
+<defs>
+<linearGradient gradientUnits="userSpaceOnUse" x1="167.9993" x2="167.9993" y1="0.1357" y2="42.4757">
+<stop offset="0" stop-color="#3f3f3f"/>
+<stop offset="0.2858" stop-color="#303030"/>
+<stop offset="0.6599" stop-color="#222222"/>
+<stop offset="1" stop-color="#1e1e1e"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="167.9993" x2="167.9993" y1="-0.1162" y2="6.8917">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<radialGradient cx="167.99991" cy="4207.9995" fx="167.99991" fy="4207.9995" gradientTransform="matrix(1.0714285,-5.952381e-7,5.1752649e-7,0.93154762,-12.002167,-3775.4518)" gradientUnits="userSpaceOnUse" r="168">
+<stop offset="0" stop-color="#e1e1e1" stop-opacity="1"/>
+<stop offset="1" stop-color="#e1e1e1" stop-opacity="0.90196079"/>
+</radialGradient>
+<linearGradient>
+<stop offset="0" stop-color="#e1e1e1" stop-opacity="1"/>
+<stop offset="1" stop-color="#e1e1e1" stop-opacity="0.90196079"/>
+</linearGradient>
+<radialGradient cx="167.99991" cy="4207.9995" fx="167.99991" fy="4207.9995" gradientTransform="matrix(1.0714285,-5.952381e-7,5.1752649e-7,0.93154762,-12.00217,-3763.4518)" gradientUnits="userSpaceOnUse" r="168">
+<stop offset="0" stop-color="#e1e1e1" stop-opacity="1"/>
+<stop offset="1" stop-color="#e1e1e1" stop-opacity="0.90196079"/>
+</radialGradient>
+</defs>
+<rect fill="#e1e1e1" fill-opacity="1" height="12" width="336" x="0" y="0"/>
+</svg>

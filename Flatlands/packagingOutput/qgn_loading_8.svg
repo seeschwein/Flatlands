@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="75px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 75 75" width="75px" x="0px" y="0px" zoomAndPan="magnify">
+<rect fill="none" height="75" width="75"/>
+<radialGradient cx="-1402.021" cy="1234.3662" gradientTransform="matrix(0.1736 -0.9848 -0.9848 -0.1736 1466.9878 -1134.0765)" gradientUnits="userSpaceOnUse" id="SVGID_1_" r="66.0528" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" xmlns:xlink="http://www.w3.org/1999/xlink">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#fa664b"/>
+</radialGradient>
+<path d="M 4.018 31.595 C 0.753 50.091 13.1 67.725 31.592 70.983 C 50.087997 74.245 67.718994 61.899 70.981 43.404 C 74.242004 24.905 61.896004 7.277001 43.402 4.015999 C 24.903 0.752 7.275 13.095 4.018 31.595 z M 66.056 42.535 C 63.274 58.306 48.221 68.838 32.459 66.058 C 16.688 63.278 6.156 48.235 8.938 32.464 C 11.717999 16.702 26.759 6.16 42.533 8.942001 C 58.291 11.719 68.833 26.774 66.056 42.535 z " fill="url(#SVGID_1_)"/>
+</svg>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="96px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 96 96" width="96px" x="0px" y="0px" zoomAndPan="magnify">
+<defs/>
+<rect fill="none" height="96" width="96"/>
+<path d="M 89.6305 38.43963 C 89.6305 56.151485 75.27221 70.50977 57.560364 70.50977 C 39.848507 70.50977 25.49022 56.15147 25.49022 38.43962 C 25.49022 20.727772 39.84851 6.36948 57.560364 6.36948 C 75.27221 6.36948 89.6305 20.727772 89.6305 38.43962 z " fill="#f1f1f1" fill-opacity="0.78431373" fill-rule="nonzero" stroke="#fa664b" stroke-dasharray="none" stroke-dashoffset="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-opacity="1" stroke-width="3.93572307"/>
+<path d="M 81.04343 38.697254 C 81.04012 38.614845 81.03188 38.53271 81.01883 38.45127 C 80.89467 37.382942 79.97867 36.584103 78.90338 36.606403 C 64.4724 36.6064 50.041412 36.6064 35.610424 36.606396 C 34.455685 36.606396 33.519566 37.542503 33.51957 38.69725 C 33.51957 39.851997 34.455685 40.7881 35.61042 40.7881 C 50.041405 40.7881 64.4724 40.7881 78.90338 40.7881 C 79.46676 40.80267 80.00077 40.59158 80.40388 40.19774 C 80.806946 39.80386 81.04489 39.26081 81.043434 38.69725 z " fill="#fa664b" fill-opacity="1"/>
+</svg>

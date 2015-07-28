@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="12px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 336 12" width="336px" x="0px" y="0px" zoomAndPan="magnify">
+<defs>
+<linearGradient gradientUnits="userSpaceOnUse" x1="167.9993" x2="167.9993" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="-205.8726" y2="-163.5324">
+<stop offset="0" stop-color="#3f3f3f"/>
+<stop offset="0.2858" stop-color="#303030"/>
+<stop offset="0.6599" stop-color="#222222"/>
+<stop offset="1" stop-color="#1e1e1e"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="167.9993" x2="167.9993" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="5.0044" y2="6.6882">
+<stop offset="0" stop-color="#282828"/>
+<stop offset="0.2332" stop-color="#1c1c1c"/>
+<stop offset="0.5744" stop-color="#121212"/>
+<stop offset="1" stop-color="#0f0f0f"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="167.9993" x2="167.9993" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="5.0044" y2="6.6882">
+<stop offset="0" stop-color="#282828"/>
+<stop offset="0.2332" stop-color="#1c1c1c"/>
+<stop offset="0.5744" stop-color="#121212"/>
+<stop offset="1" stop-color="#0f0f0f"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="167.9993" x2="167.9993" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="-205.8726" y2="-163.5324">
+<stop offset="0" stop-color="#3f3f3f"/>
+<stop offset="0.2858" stop-color="#303030"/>
+<stop offset="0.6599" stop-color="#222222"/>
+<stop offset="1" stop-color="#1e1e1e"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,1.090909,0,-0.00436363)" gradientUnits="userSpaceOnUse" x1="167.9993" x2="167.9993" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="-205.8726" y2="-163.5324">
+<stop offset="0" stop-color="#3f3f3f"/>
+<stop offset="0.2858" stop-color="#303030"/>
+<stop offset="0.6599" stop-color="#222222"/>
+<stop offset="1" stop-color="#1e1e1e"/>
+</linearGradient>
+<radialGradient cx="167.99991" cy="-3919.0027" fx="167.99991" fy="-3919.0027" gradientTransform="matrix(1.0714291,1.8755357e-8,-1.6306722e-8,0.93154697,-12.000149,3795.235)" gradientUnits="userSpaceOnUse" r="168" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" xmlns:xlink="http://www.w3.org/1999/xlink">
+<stop offset="0" stop-color="#e1e1e1" stop-opacity="1"/>
+<stop offset="1" stop-color="#e1e1e1" stop-opacity="0.90196079"/>
+</radialGradient>
+<linearGradient xlink:actuate="onLoad" xlink:show="other" xlink:type="simple">
+<stop offset="0" stop-color="#e1e1e1" stop-opacity="1"/>
+<stop offset="1" stop-color="#e1e1e1" stop-opacity="0.90196079"/>
+</linearGradient>
+<radialGradient cx="167.99991" cy="-3919.0027" fx="167.99991" fy="-3919.0027" gradientTransform="matrix(1.0714291,1.8755357e-8,-1.6306722e-8,0.93154697,-12.000152,3506.235)" gradientUnits="userSpaceOnUse" id="radialGradient4047" r="168" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" xmlns:xlink="http://www.w3.org/1999/xlink">
+<stop offset="0" stop-color="#e1e1e1" stop-opacity="1"/>
+<stop offset="1" stop-color="#e1e1e1" stop-opacity="0.90196079"/>
+</radialGradient>
+</defs>
+<rect fill="url(#radialGradient4047)" fill-opacity="1" height="12" width="336" x="0" y="0"/>
+</svg>
