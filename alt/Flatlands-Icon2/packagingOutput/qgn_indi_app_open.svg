@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="27px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 27 27" width="27px" x="0px" y="0px" zoomAndPan="magnify">
+<rect fill="none" height="27" width="27"/>
+<defs>
+<linearGradient gradientUnits="userSpaceOnUse" x1="13.5005" x2="13.5005" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="23" y2="4.0005">
+<stop offset="0" stop-color="#d0cbc5"/>
+<stop offset="1" stop-color="#fcfcf9"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,0.04,95.1543)" gradientUnits="userSpaceOnUse" x1="52.584999" x2="52.584999" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="10.1465" y2="75.504402">
+<stop offset="0" stop-color="#960000"/>
+<stop offset="0.6768" stop-color="#ff0000"/>
+<stop offset="1" stop-color="#fa3c3c"/>
+</linearGradient>
+</defs>
+<path d="M 13.5 22.5 C 8.537144 22.5 4.5 18.462856 4.5 13.5 C 4.5 8.537145 8.537144 4.500002 13.5 4.500002 C 18.462856 4.500002 22.5 8.537146 22.5 13.5 C 22.5 18.462856 18.462856 22.5 13.5 22.5 L 13.5 22.5 z " fill="#e5e5e5" fill-opacity="0.78431373999999998" stroke="none" stroke-opacity="1"/>
+<path d="M 17.733051 13.414195 C 17.733051 15.594082 15.889071 17.361229 13.614407 17.361229 C 11.339743 17.361229 9.495763 15.594082 9.495763 13.414195 C 9.495763 11.234308 11.339743 9.467161 13.614407 9.467161 C 15.889071 9.467161 17.733051 11.234308 17.733051 13.414195 z " fill="#50b4fb" fill-opacity="1" fill-rule="nonzero" stroke="#50b4fb" stroke-dasharray="none" stroke-linejoin="round" stroke-miterlimit="4" stroke-opacity="1" stroke-width="0" transform="matrix(0.97119338,0,0,1.0134192,0.27777847,-0.09420275)"/>
+<path d="M 13.5 23.258698 C 8.118776 23.258698 3.7413025 18.881222 3.7413025 13.499999 C 3.7413025 8.118777 8.118776 3.7413034 13.5 3.7413034 C 18.881224 3.7413034 23.258698 8.118778 23.258698 13.499999 C 23.258698 18.881222 18.881222 23.258698 13.499999 23.258698 L 13.499999 23.258698 z " fill="none" stroke="#50b4fb" stroke-dasharray="none" stroke-miterlimit="4" stroke-opacity="1" stroke-width="1.5"/>
+</svg>

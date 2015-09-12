@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="57px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 67 57" width="67px" x="0px" y="0px" zoomAndPan="magnify">
+<g>
+<rect fill="none" height="57" width="67"/>
+</g>
+<g>
+<rect fill="none" height="46" width="46" x="10.5" y="5.5"/>
+</g>
+<rect fill="none" height="44" width="44" x="12" y="7"/>
+<path d="M 55.421 16.676 C 52.865 5.958 41.648003 8.896 41.648003 8.896 C 33.613003 10.403 26.977003 16.612 24.932005 18.705 L 24.924004 18.699 L 21.875004 21.748 L 21.891005 21.759 C 19.317003 24.445 14.239004 30.491 12.896005 37.647 C 12.896005 37.647 9.959004 48.865997 20.674004 51.421997 C 22.178003 51.777996 23.045004 50.137997 23.045004 50.137997 L 25.713003 43.004 C 26.560003 41.384 25.431004 40.429996 25.431004 40.429996 L 22.331003 36.959995 C 22.636003 37.21899 18.967005 33.990993 28.049004 24.621994 L 28.049004 24.618994 L 28.503004 24.167994 L 28.506004 24.168991 C 37.874004 15.082993 41.102005 18.752993 40.84401 18.452991 L 44.42701 21.433994 C 44.42701 21.433994 45.384007 22.559994 47.005005 21.711994 L 54.131004 19.047997 C 54.131 19.048 55.775 18.179 55.421 16.676 z " fill="#575757" fill-opacity="1" stroke-opacity="0.3"/>
+<defs>
+<linearGradient gradientUnits="userSpaceOnUse" x1="33.9995" x2="33.9995" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="50.4717" y2="7.5278">
+<stop offset="0" stop-color="#d0cbc5"/>
+<stop offset="0.5031" stop-color="#fafcef"/>
+<stop offset="0.9693" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff"/>
+</linearGradient>
+</defs>
+</svg>

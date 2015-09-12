@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="70px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 70 70" width="70px" x="0px" y="0px" zoomAndPan="magnify">
+<rect color="#000000" display="inline" fill="#353535" fill-opacity="0.58823528999999997" fill-rule="nonzero" height="48" ry="8.2174387" stroke="none" visibility="visible" width="48" x="11" y="11"/>
+<path d="M 34.983257 20.0451 C 29.419989 20.0451 23.732103 21.827215 23.732103 35.044525 C 23.732103 48.261253 29.41941 50.0451 34.983257 50.0451 C 40.67518 50.0451 46.233257 48.886063 46.2321 35.044525 C 46.2321 21.827797 40.546524 20.0451 34.983253 20.0451 z M 41.170753 39.25145 L 34.09883 47.20664 L 34.09883 37.48145 L 29.679602 41.01972 L 27.912489 39.252026 L 34.04518 34.830486 L 27.912489 29.528564 L 29.679604 27.760872 L 34.098835 32.179527 L 34.098835 22.456066 L 41.170757 30.411837 L 36.86172 34.82991 L 41.17076 39.25145 z M 35.865955 41.90299 L 38.519222 39.250298 L 35.865955 36.595875 L 35.865955 41.902992 z M 35.865955 27.760303 L 35.865955 33.06338 L 38.519222 30.411264 L 35.86595 27.7603 z " fill="#fafafa" fill-opacity="1" stroke-opacity="0.3"/>
+<defs>
+<linearGradient gradientUnits="userSpaceOnUse" x1="35.0005" x2="35.0005" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="61" y2="9.0005">
+<stop offset="0" stop-color="#d0cbc5"/>
+<stop offset="0.5031" stop-color="#fafcef"/>
+<stop offset="0.9693" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff"/>
+</linearGradient>
+</defs>
+</svg>

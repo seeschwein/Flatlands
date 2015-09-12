@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="96px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 96 96" width="96px" x="0px" y="0px" zoomAndPan="magnify">
+<rect fill="none" height="96" width="96"/>
+<g transform="matrix(1.2254021,0,0,1.2254021,-21.367386,-0.2712182)">
+<path d="M 94.05718 37.60976 C 94.05718 58.896645 76.86514 76.15308 55.657692 76.15308 C 34.450233 76.15308 17.258198 58.89664 17.258198 37.609756 C 17.258198 16.322872 34.450237 -0.9335556 55.657692 -0.9335556 C 76.86514 -0.9335556 94.05718 16.322872 94.05718 37.609756 z " fill="#70afe0" fill-opacity="1" fill-rule="nonzero" stroke="#eaeaea" stroke-dasharray="none" stroke-dashoffset="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-opacity="1" stroke-width="5.43405485" transform="matrix(0.92184465,0,0,0.91840494,5.5906226,4.5606422)"/>
+<g stroke="#eaeaea" stroke-opacity="1" transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,-10.944378,51.374545)">
+<path d="M 20.644068 39.050846 L 92.440674 39.050846 " fill="none" stroke="#eaeaea" stroke-dasharray="none" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" stroke-width="5"/>
+<path d="M 56.44068 3.355932 L 56.44068 74.44069 " fill="none" stroke="#eaeaea" stroke-dasharray="none" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" stroke-width="5"/>
+</g>
+</g>
+</svg>

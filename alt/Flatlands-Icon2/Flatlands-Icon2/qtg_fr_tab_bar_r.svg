@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="46px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 46 46" width="46px" x="0px" y="0px" zoomAndPan="magnify">
+<defs/>
+<path d="M 38.87163 2.5E-7 L 23.0 2.5E-7 L 23.0 46.0 L 38.87163 46.0 C 42.820747 46.0 46.0 42.962116 46.0 39.1886 L 46.0 6.811399 C 46.0 3.0378838 42.820747 2.5E-7 38.87163 2.5E-7 z " fill="#50b4fb" fill-opacity="1" stroke="#000000" stroke-dasharray="none" stroke-miterlimit="4" stroke-opacity="1" stroke-width="0"/>
+<path d="M 37.318977 2.2500005 L 23.0 2.2500005 L 23.0 43.75 L 37.318977 43.75 C 40.881763 43.75 43.75 41.009296 43.75 37.604935 L 43.75 8.395065 C 43.75 4.9907 40.881763 2.2500005 37.318977 2.2500005 z " fill="#e4e4e4" fill-opacity="1" stroke="#000000" stroke-dasharray="none" stroke-miterlimit="4" stroke-opacity="1" stroke-width="0"/>
+<rect fill="#50b4fb" fill-opacity="1" height="46" transform="scale(-1,1)" width="23" x="-23" y="0"/>
+<rect fill="#e4e4e4" fill-opacity="1" height="41.5" transform="scale(-1,1)" width="23" x="-23" y="2.25"/>
+</svg>

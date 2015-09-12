@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="57px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 67 57" width="67px" x="0px" y="0px" zoomAndPan="magnify">
+<rect color="#000000" display="inline" fill="#4ed54a" fill-opacity="0.58823528999999997" fill-rule="nonzero" height="48" ry="8.2174387" stroke="none" visibility="visible" width="48" x="8.5" y="5.5"/>
+<g>
+<rect fill="none" height="57" width="67"/>
+</g>
+<g>
+<rect fill="none" height="46" width="46" x="10.5" y="5.5"/>
+</g>
+<rect color="#000000" display="inline" fill="#ffffff" fill-opacity="0" fill-rule="nonzero" height="33" ry="0" stroke="none" stroke-width="1" visibility="visible" width="33" x="16" y="13"/>
+<rect fill="none" height="44" width="44" x="12" y="7"/>
+<path d="M 47.43327 38.78828 C 45.651466 46.259884 37.832 44.211784 37.832 44.211784 C 32.230736 43.16124 27.604725 38.832893 26.179142 37.37385 L 26.173542 37.37815 L 24.048061 35.252666 L 24.059221 35.244965 C 22.264866 33.372524 18.72495 29.157806 17.788734 24.1693 C 17.788734 24.1693 15.741327 16.348446 23.210842 14.566633 C 24.25929 14.318463 24.86369 15.46172 24.86369 15.46172 L 26.72357 20.434889 C 27.314024 21.564203 26.526987 22.229244 26.526987 22.229244 L 24.36595 24.648212 C 24.57857 24.467665 22.020878 26.717928 28.352015 33.249134 L 28.352015 33.251133 L 28.6685 33.56553 L 28.670502 33.56484 C 35.20101 39.898766 37.451275 37.340374 37.271427 37.549507 L 39.769165 35.471428 C 39.769165 35.471428 40.436295 34.686485 41.5663 35.27763 L 46.5339 37.134724 C 46.5339 37.134724 47.67994 37.74051 47.433174 38.788265 z " fill="#ffffff" fill-opacity="1" stroke="#ffffff" stroke-linejoin="round" stroke-opacity="1" stroke-width="0.94759852"/>
+<defs>
+<linearGradient gradientUnits="userSpaceOnUse" x1="33.9995" x2="33.9995" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="50.4717" y2="7.5278">
+<stop offset="0" stop-color="#d0cbc5"/>
+<stop offset="0.5031" stop-color="#fafcef"/>
+<stop offset="0.9693" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff"/>
+</linearGradient>
+</defs>
+</svg>

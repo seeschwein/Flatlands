@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="289px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 336 289" width="336px" x="0px" y="0px" zoomAndPan="magnify">
+<defs>
+<defs>
+<linearGradient gradientUnits="userSpaceOnUse" x1="167.9993" x2="167.9993" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="-17.6743" y2="45.3967">
+<stop offset="0" stop-color="#3f3f3f"/>
+<stop offset="0.2858" stop-color="#303030"/>
+<stop offset="0.6599" stop-color="#222222"/>
+<stop offset="1" stop-color="#1e1e1e"/>
+</linearGradient>
+</defs>
+<linearGradient gradientUnits="userSpaceOnUse" x1="167.9993" x2="167.9993" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="-17.6743" y2="45.3967">
+<stop offset="0" stop-color="#3f3f3f"/>
+<stop offset="0.2858" stop-color="#303030"/>
+<stop offset="0.6599" stop-color="#222222"/>
+<stop offset="1" stop-color="#1e1e1e"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="2.9575" x2="2.9575" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="-118.4614" y2="-79.1222">
+<stop offset="0" stop-color="#c2c2c2"/>
+<stop offset="1" stop-color="#c2c2c2"/>
+</linearGradient>
+<linearGradient gradientTransform="scale(30.425963,36)" gradientUnits="userSpaceOnUse" x1="2.9575" x2="2.9575" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="-118.4614" y2="-79.1222">
+<stop offset="0" stop-color="#c2c2c2"/>
+<stop offset="1" stop-color="#c2c2c2"/>
+</linearGradient>
+</defs>
+<path d="M 336.0 109.00001 C 234.27916 115.02233 166.52762 221.75153 156.0 289.0 L 336.0 289.0 z " fill="#e1e1e1" fill-opacity="0.78431373"/>
+</svg>
